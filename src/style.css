@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f8fafc;
+}
+.card-title {
+  font-size: 1rem;
+}
+.modal {
+  z-index: 9999;
+}
